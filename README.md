@@ -11,10 +11,13 @@
 ## 🚀 نحوه اجرا
 
 ### 1. نصب وابستگی‌ها
-```bash
+
 pip install streamlit scikit-learn pandas joblib
 
 ### 2. آموزش مدل
 python model/train_model.py
 
-ساخته شده با عشق توسط علیرضا سبحانی
+### 3. اجرای اپلیکیشن
+streamlit run app/lung_cancer_app.py
+
+```bash
