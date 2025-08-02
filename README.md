@@ -14,7 +14,7 @@
 ```bash
 pip install streamlit scikit-learn pandas joblib
 
-آموزش مدل
+### 2. آموزش مدل
 python model/train_model.py
 
 ساخته شده با عشق توسط علیرضا سبحانی
